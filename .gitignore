@@ -1,0 +1,6 @@
+# Exclude all CSV files in Data/unified_downloads_uploads
+Data/unified_downloads_uploads/*.csv
+
+# Exclude specific large files
+file_ouputs/merged_upload_2024.csv
+file_ouputs/merged_download_2024.csv
